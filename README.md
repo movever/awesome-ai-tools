@@ -230,6 +230,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=mahseema-awesome-ai-tools) - Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
 - [7emoji](https://7emoji.fun) - AI emoji translator that turns your text into up to 10 context-matched emoji suggestions to copy.
 - [IsWeber](https://isweber.com) - Agent content pipeline for creators: topic to outline, script, and titles.
+- [AI Story Writer](https://aistorywriter.org) - Free AI story writer for kids—short family-safe stories with illustrations and narration.
 
 
 ### Developer tools
@@ -504,6 +505,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
 - [Have I Been Trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
 - [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
+- [Odluck](https://odluck.com) - Free online random generators for numbers, passwords, colors, cards, animals, and countries.
 - [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
 - [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
