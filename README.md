@@ -229,6 +229,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
 - [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=mahseema-awesome-ai-tools) - Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
 - [7emoji](https://7emoji.fun) - AI emoji translator that turns your text into up to 10 context-matched emoji suggestions to copy.
+- [IsWeber](https://isweber.com) - Agent content pipeline for creators: topic to outline, script, and titles.
 
 
 ### Developer tools
