@@ -507,6 +507,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
 - [Lompu](https://lompu.com) - Build custom random pickers and flashcards from your own lists—save and share in seconds.
 - [Odluck](https://odluck.com) - Free online random generators for numbers, passwords, colors, cards, animals, and countries.
+- [PuzzlePave](https://puzzlepave.com) - Free packing / polyomino puzzle online: rotate blocks, pave an 8×8 board across 100 levels—no download or sign-up.
 - [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
 - [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
